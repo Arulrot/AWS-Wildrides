@@ -1,4 +1,4 @@
-
+![App Screenshot](Screenshots/DemoVideo.mp4)
 ## The Application Code
 The application code is here in this repository.
 
